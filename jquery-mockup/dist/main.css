@@ -1,6 +1,8 @@
 header {
-  background: #536AA9;
   margin-bottom: 10px; }
+
+.name {
+  color: #f5f0f0; }
 
 .card .btn-primary {
   font-family: monospace; }

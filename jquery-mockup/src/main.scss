@@ -3,8 +3,11 @@ $primary-background: #536AA9;
 $monospace: "Courier New", Courier, monospace;
 
 header{
-    background: $primary-background;
     margin-bottom: 10px;
+}
+
+.name{
+    color: #f5f0f0
 }
 
 .card {
